@@ -1,0 +1,7 @@
+2025-04-05 16:33:46,881 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-05 16:33:49,996 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 5, 'p': 2}
+2025-04-05 16:34:04,089 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.050000000000000044, best pos: [0 0 0 0 1 0 1 1 0 0 1 0 0 0 1 1 0 0 0 1]
+2025-04-05 16:34:04,281 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 5, 'p': 2}
+2025-04-05 16:34:20,562 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.06666666666666665, best pos: [0 1 0 1 1 1 0 1 1 0 1 0 0 1 1 1 0 0 1 1]
+2025-04-05 16:34:20,728 - pyswarms.discrete.binary - INFO - Optimize for 10 iters with {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 5, 'p': 2}
+2025-04-05 16:34:33,961 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.051515151515151514, best pos: [0 0 0 1 1 1 1 1 1 0 1 0 0 1 0 1 0 0 0 0]
